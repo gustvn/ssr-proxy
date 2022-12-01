@@ -1,0 +1,19 @@
+{
+  "name": "vs-183",
+  "version": "1.0.0",
+  "description": "server side render to single page app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vu Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.8",
+    "express": "^4.18.2",
+    "forever": "^4.0.3",
+    "http-proxy": "^1.18.1",
+    "node-cache": "^5.1.2",
+    "puppeteer": "^19.3.0"
+  }
+}
