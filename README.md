@@ -6,11 +6,11 @@ Make SEO/Social sharing easy for SPA (Angular/React/Vue JS)
 
 **Ex:** 
 
-Original page: [https://shop-kanoo-staging.kardsys.com/kz/heuregrand/product/1135](https://shop-kanoo-staging.kardsys.com/kz/heuregrand/product/1135)
+Original page: https://shop.exaple.com/product/1135
 
-This proxy started on **localhost** port **8888** with `originURL=`[https://shop-kanoo-staging.kardsys.com](https://shop-kanoo-staging.kardsys.com/kz/heuregrand/product/1135)
+This proxy started on **localhost** port **8888** with `originURL`=https://shop.example.com
 
-\==> SSR page: http://localhost:8888[/kz/heuregrand/product/1135](https://shop-kanoo-staging.kardsys.com/kz/heuregrand/product/1135)
+\==> SSR page: http://localhost:8888/product/1135
 
 ---
 
