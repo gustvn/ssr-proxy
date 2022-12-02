@@ -14,8 +14,6 @@ const app = express();
 var proxy = httpProxy.createProxyServer({});
 let browserWSEndpoint = null;
 
-app.get("*.css")
-
 app.get('*', async (req, res, next) => {
   // console.info("======== request: %s", req.method, req.url);
 
